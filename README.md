@@ -26,7 +26,7 @@ In Decision Trees, for predicting a class label for a record we start from the r
 
 #### Random Forest
 Random forest is a supervised learning algorithm which is used for both classification as well as regression. But however, it is mainly used for classification problems. As we know that a forest is made up of trees and more trees means more robust forest. Similarly, random forest algorithm creates decision trees on data samples and then gets the prediction from each of them and finally selects the best solution by means of voting. It is an ensemble method which is better than a single decision tree because it reduces the over-fitting by averaging the result.
-![Random Forest](https://github.com/TinaChandwani/Credit-card-fault-detection/blob/master/random_forest.JPG)
+c
 
 #### Naive Bayes
 The Naive Bayes algorithm is a supervised machine learning algorithm for classification. It learns the probability of an object with certain features belonging to a particular group. In short, it is a probabilistic classifier. 
